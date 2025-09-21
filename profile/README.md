@@ -1,7 +1,7 @@
 # Keyboard Maestro – Powerful Automation for Mac
 
 <div align="center">
-<img src="http://mp-cdn.elgato.com/media/35c7590b-b7fb-4be0-9e5d-9fd4b4c0f013/0cdb0580-e9e1-4ed6-b384-1fa7d1042de8/Keyboard_Maestro-app-icon-optimized-42375449-2ee6-4892-9342-d2822d9255d4.png" alt="Keyboard Maestro Logo" width="256" height="256">
+<img src="https://www.asianefficiency.com/wp-content/uploads/2015/11/keyboardmaestro.png" alt="Keyboard Maestro Logo" width="256" height="256">
 </div>
 
 <div align="center">
